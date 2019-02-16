@@ -1,0 +1,4 @@
+G:\Ph. D. Code Base\PTM Preprocessing Application\PTMDatabaseInConsistencyAnalyzer\PTMDatabaseInConsistencyAnalyzer\obj\Debug\PTMDatabaseInConsistencyAnalyzer.exe
+G:\Ph. D. Code Base\PTM Preprocessing Application\PTMDatabaseInConsistencyAnalyzer\PTMDatabaseInConsistencyAnalyzer\obj\Debug\PTMDatabaseInConsistencyAnalyzer.pdb
+D:\Ph.D.CodeBase 2\PTM Preprocessing Application\PTMDatabaseInConsistencyAnalyzer\PTMDatabaseInConsistencyAnalyzer\obj\Debug\PTMDatabaseInConsistencyAnalyzer.exe
+D:\Ph.D.CodeBase 2\PTM Preprocessing Application\PTMDatabaseInConsistencyAnalyzer\PTMDatabaseInConsistencyAnalyzer\obj\Debug\PTMDatabaseInConsistencyAnalyzer.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PTMDatabaseInConsistencyAnalyzer.MainFrame.resources
+obj\Debug\PTMDatabaseInConsistencyAnalyzer.Properties.Resources.resources
+obj\Debug\PTMDatabaseInConsistencyAnalyzer.csproj.GenerateResource.Cache
+bin\Debug\PTMDatabaseInConsistencyAnalyzer.exe
+bin\Debug\PTMDatabaseInConsistencyAnalyzer.pdb
+bin\Debug\PTMUtilityLibrary.dll
+bin\Debug\PTMUtilityLibrary.pdb
+obj\Debug\PTMDatabaseInConsistencyAnalyzer.exe
+obj\Debug\PTMDatabaseInConsistencyAnalyzer.pdb

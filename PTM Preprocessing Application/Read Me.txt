@@ -1,0 +1,3 @@
+PTMDatabaseInConsistencyAnalyzer: This folder contains the GUI application
+
+PTMUtilityLibraryL This folder contains the logic code behind the GUI application as library (.dll)

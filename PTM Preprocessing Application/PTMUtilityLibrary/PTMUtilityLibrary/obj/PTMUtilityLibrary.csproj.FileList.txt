@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PTMUtilityLibrary.pdb
+bin\Debug\PTMUtilityLibrary.dll
+bin\Debug\PTMUtilityLibrary.pdb
+obj\Debug\PTMUtilityLibrary.dll
